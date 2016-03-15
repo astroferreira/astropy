@@ -60,6 +60,8 @@ New Features
 
 - ``astropy.stats``
 
+  - Added ``axis`` keyword for ``mad_std`` function. [#4688]
+
   - Added Bayesian upper limits for Poisson count rates. [#4622]
   
   - Added ``circstats``; a module for computing circular statistics. [#3705]
@@ -68,6 +70,8 @@ New Features
 
   - Updated ``bootstrap`` to allow bootstrapping statistics with multiple
     outputs. [#3601]
+    
+  
 
 - ``astropy.table``
 
